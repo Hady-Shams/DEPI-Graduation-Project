@@ -23,7 +23,8 @@ Recommended Analysis
 3.	Are there any special events that skew the data?
 4.	What is the most common amount of downtime for a power outage?
 
---------------------
+--------------------------------------------------------------------------------
 ![2  Electric_Disturbance_Events  Trends   Overview](https://github.com/user-attachments/assets/02c38724-49ba-4c3c-9b50-28a9d3207544)
 ![3  Electric_Disturbance_Events  Region](https://github.com/user-attachments/assets/f4b51e75-156b-44d0-97db-19661e4b9c6d)
 ![4  Electric_Disturbance_Events  Event Type](https://github.com/user-attachments/assets/cca586e1-0933-4ae8-8657-879405ae0fe1)
+![5  Electric_Disturbance_Events  Conclusion](https://github.com/user-attachments/assets/c2c0ba47-51b0-4506-ace9-369e8e83ef21)
