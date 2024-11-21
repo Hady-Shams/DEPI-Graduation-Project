@@ -1,4 +1,5 @@
 # Electric Disturbance Events
+![1  Electric_Disturbance_Events  Home](https://github.com/user-attachments/assets/660ffc61-8562-4bdb-9a49-9bcc8ed0c7a7)
 
 Challenge Objective
 -------------------
